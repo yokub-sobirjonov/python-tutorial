@@ -1,2 +1,2 @@
-# python-tutorial
-python dasturlash tili 
+# PYTHON
+bu yoriqnomani oqib chiqing
